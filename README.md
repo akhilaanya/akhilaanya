@@ -1,18 +1,13 @@
 ## Hi there 👋
-
-<!--
-**akhilaanya/akhilaanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a first-year physics/astronomy (+ political science) undergraduate at the University of Washington, Seattle. This is my website to host my writing and store other projects. 
 
-I am a first-year physics/astronomy (+ political science) undergraduate at the University of Washington, Seattle. 
+Here are some fun facts:
+- I worked for NASA for a summer and spent a week in rural Texas at an observatory
+- My middle name is from a video game
+- I once correctly named every single Mii character
+
+Here are some current projects: 
+- Writing a screenplay for _These Other Americans_ by Laila Lalami
+- Working on an album, _Thoughts from Places_
