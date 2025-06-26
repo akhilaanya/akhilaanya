@@ -1,5 +1,4 @@
 ## Hi there 👋
-Here are some ideas to get you started:
 
 I am a first-year physics/astronomy (+ political science) undergraduate at the University of Washington, Seattle. This is my website to host my writing and store other projects. 
 
